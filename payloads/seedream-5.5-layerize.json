@@ -1,0 +1,11 @@
+{
+  "model": "seedream-5.5-layerize",
+  "input": {
+    "prompt": "Put the man, the table with its chairs, and the canopy on separate layers and keep the walls and floor in the base image",
+    "image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-mini/examples/image-to-video-last-frame.jpg"
+    ],
+    "resolution": "1K",
+    "max_images": 10
+  }
+}

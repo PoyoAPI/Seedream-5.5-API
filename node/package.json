@@ -1,0 +1,8 @@
+{
+  "name": "poyo-seedream-5-5-api-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}

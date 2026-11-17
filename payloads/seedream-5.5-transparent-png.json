@@ -1,0 +1,10 @@
+{
+  "model": "seedream-5.5",
+  "input": {
+    "prompt": "A red paper lantern with golden tassels, flat illustration sticker, isolated subject on a transparent background",
+    "size": "1:1",
+    "resolution": "1K",
+    "background": "transparent",
+    "output_format": "png"
+  }
+}

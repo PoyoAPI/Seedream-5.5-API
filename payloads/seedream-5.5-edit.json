@@ -1,0 +1,10 @@
+{
+  "model": "seedream-5.5",
+  "input": {
+    "prompt": "Keep the red fox from image 1 exactly as it is, including the brass compass on its cord. Change the season to a snowy winter forest with soft falling snow. Keep the camera angle and the direction of the light unchanged.",
+    "image_urls": [
+      "https://storage.poyo.ai/models/seedance-2-5/examples/inputs/reference-fox-image.webp"
+    ],
+    "resolution": "2K"
+  }
+}
